@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 140vh;
+  width: 70%;
+  margin-left: 40px;
+  padding-left: 50px;
+  margin-top: 40px;
+  padding-top: 60px;
+  padding-right: 60px;
+}
+.faq-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 80%;
+}
+.faq-heading {
+  color: #cb8805;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+  padding-top: 25px;
+}
